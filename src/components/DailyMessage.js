@@ -7,12 +7,13 @@ const DailyMessage = () => {
     "Insetar texto",
     "Personalmente admiro tu fuerza y dedicacion amor",
     "Hoy estare cansado, es un predict",
-    "no se xd",
+    "Te extraño amor, cuando nos vemos??",
+    "tengo sueño, en momentos asi quiesiera que estemos abrazaditos",
     "Tengo una sorpresa para ti, si lees esto puede ser que te la diga, pero es a futuro, todavia no aprendo algo que necesito",
     "lorem ipsum dolor sit amet",
     "Te amooooooooooooooooo mucho",
-    "Si estos dias no te ha gustado como te sientes contigo misma, fisica o emocionalmente, hoy haz algo para cambiarlo, pequeños actos hacen grandes cambios amor"
-  , "No estas sola mi amor siempre habra un fantasma en debajo de tu cama."
+    "Si estos dias no te ha gustado como te sientes contigo misma, fisica o emocionalmente, hoy haz algo para cambiarlo, pequeños actos hacen grandes cambios amor",
+    "No estas sola mi amor siempre habra un fantasma en debajo de tu cama."
   ];
 
   const [currentMessage, setCurrentMessage] = useState('');
