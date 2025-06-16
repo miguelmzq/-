@@ -2,16 +2,17 @@ import React, { useState } from 'react';
 
 const DailyMessage = () => {
   const messages = [
-    "Por si no lo sabias, me gustas mucho mi amor.",
-    "Amorr, si te sientes ofuscada, tomate tus tiempos y recuerda respirar, Te amo.",
-    "Hoy sera un buen dia, un gran dia, un buen dia, recuerda todo es mental.",
-    "Recuerda mantener la cabeza fria en decisiones, tu puedes con todo.",
-    "Hoy espero tengas/hayas tenido un buen dia y perdon si no estuve presente o te incomodo algo de mi.",
-    "Amor, sabes veces simplemente pienso y digo, bacan ah JAJAJAJA.",
-    "Si andas muy estresada, busca ordenarte, distraerte y enfocarte, tu puedes amor.",
-    "Te gustaría que de vez en cuando fuera más romantico?",
-    "Si hay algo que te incomode o moleste de mi, considero que deberia saberlo para que mejoremos juntos.",
-    "Recuerda siempre que somos un equipo, no estas sola y tampoco lo estaras."
+    "Me gustas muchisimo amor",
+    "Hoy te quiero dedicar una cancion amor",
+    "Insetar texto",
+    "Personalmente admiro tu fuerza y dedicacion amor",
+    "Hoy estare cansado, es un predict",
+    "no se xd",
+    "Tengo una sorpresa para ti, si lees esto puede ser que te la diga, pero es a futuro, todavia no aprendo algo que necesito",
+    "lorem ipsum dolor sit amet",
+    "Te amooooooooooooooooo mucho",
+    "Si estos dias no te ha gustado como te sientes contigo misma, fisica o emocionalmente, hoy haz algo para cambiarlo, pequeños actos hacen grandes cambios amor"
+    "No estas sola mi amor, siempre habra un fantasma en debajo de tu cama."
   ];
 
   const [currentMessage, setCurrentMessage] = useState('');
