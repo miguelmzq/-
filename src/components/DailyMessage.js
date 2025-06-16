@@ -12,7 +12,7 @@ const DailyMessage = () => {
     "lorem ipsum dolor sit amet",
     "Te amooooooooooooooooo mucho",
     "Si estos dias no te ha gustado como te sientes contigo misma, fisica o emocionalmente, hoy haz algo para cambiarlo, pequeños actos hacen grandes cambios amor"
-    "No estas sola mi amor, siempre habra un fantasma en debajo de tu cama."
+  , "No estas sola mi amor siempre habra un fantasma en debajo de tu cama."
   ];
 
   const [currentMessage, setCurrentMessage] = useState('');
