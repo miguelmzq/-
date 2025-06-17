@@ -13,6 +13,9 @@ const DailyMessage = () => {
     "Tengo una sorpresa para ti, si lees esto puede ser que te la diga, pero es a futuro, todavia no aprendo algo que necesito",
     "lorem ipsum dolor sit amet",
     "Te amooooooooooooooooo mucho",
+    "Cuál es la diferencia entre un argentino y una vaca? Que la vaca da leche y el argentino dale che",
+    "Que le dice una barra de pan a otra? te presento a una miga",
+    "Amor tu sabes porque los gatos no van a las discotecas? porque le tienen miedo al perreo",
     "Si estos dias no te ha gustado como te sientes contigo misma, fisica o emocionalmente, hoy haz algo para cambiarlo, pequeños actos hacen grandes cambios amor",
     "No estas sola mi amor siempre habra un fantasma en debajo de tu cama."
   ];
