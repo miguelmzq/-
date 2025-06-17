@@ -22,10 +22,6 @@ const DailyMessage = () => {
 
   const getDailyMessage = () => {
     const today = new Date();
-    const targetHour = 6;
-    if (now.getHours() < targetHour) {
-    now.setDate(now.getDate() - 1);
-    const startOfYear = new Date(now.getFullYear(), 0, 0);
     const dayOfYear = Math.floor((today - new Date(today.getFullYear(), 0, 0)) / (1000 * 60 * 60 * 24));
     const messageIndex = dayOfYear % messages.length;
     return messages[messageIndex];
