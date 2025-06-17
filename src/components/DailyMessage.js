@@ -8,6 +8,7 @@ const DailyMessage = () => {
     "Personalmente admiro tu fuerza y dedicacion amor",
     "Hoy estare cansado, es un predict",
     "Te extraño amor, cuando nos vemos??",
+    "Si lees esto me debes 100000 soles y un abrazo amor",
     "tengo sueño, en momentos asi quiesiera que estemos abrazaditos",
     "Tengo una sorpresa para ti, si lees esto puede ser que te la diga, pero es a futuro, todavia no aprendo algo que necesito",
     "lorem ipsum dolor sit amet",
