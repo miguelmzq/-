@@ -15,7 +15,7 @@ const DailyMessage = () => {
     "Te amooooooooooooooooo muchooo amorrrr",
     "Oigame, tu sabes cuál es la diferencia entre un argentino y una vaca? Que la vaca da leche y el argentino dale che JAJJAJAJAJA, un chistesito para alegrar el dia amor",
     "Que le dice una barra de pan a otra? te presento a una miga",
-    "Amor tu sabes porque los gatos no van a las discotecas? porque le tienen miedo al perreo".
+    "Amor tu sabes porque los gatos no van a las discotecas? porque le tienen miedo al perreo"
   
   ];
 
