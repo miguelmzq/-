@@ -2,20 +2,21 @@ import React, { useState } from 'react';
 
 const DailyMessage = () => {
   const messages = [
-    "Me gustas muchisimo amor",
-    "Hoy te quiero dedicar una cancion amor",
-    "Si lees esto, te debo algo, asi lo que tu quieras (no aplica para cosas materiales)",
-    "Mira si no te lo digo a seguido pero admiro tu fuerza y dedicacion que tienes en tu carrera y todo lo que haces, eres increible amor",
-    "Hoy estare cansado, es un predict",
-    "Te extraño amor, cuando nos vemos??",
-    "Si lees esto me debes 100000 soles y un abrazo amor",
-    "tengo sueño, en momentos asi quiesiera que estemos abrazaditos",
-    "Tengo una sorpresa para ti, si lees esto puede ser que te la diga, pero es a futuro, todavia no aprendo algo que necesito",
-    "lorem ipsum dolor sit amet, JAJAJAJJAJAJA, es broma, nomas hoy queria decirte que te amo y bueno pues, si hacemos llamada te contaré un secreto",
-    "Te amooooooooooooooooo muchooo amorrrr",
-    "Oigame, tu sabes cuál es la diferencia entre un argentino y una vaca? Que la vaca da leche y el argentino dale che JAJJAJAJAJA, un chistesito para alegrar el dia amor",
+    "amorr nuevamente te quiero dedicar una canción",
+    "A pesar que seas una pava, te amo",
+    "Siempre recuerda lo mucho que vales, lo inteligente que eres y lo feliz que haces al resto",
+    "Estoy orgulloso de ti amorr",
+    "Hoy sacaremos prime a pesar de todas las dificultades",
+    "mi amorr te extrañooooo, cuando nos vemos??",
+    "Si lees esto te debo algo no material y tu me deebes galletas, aceptas amor?,
+    "Eres muy fuerte y si podras encontrar solucion a lo que te propongas",
+    "My sweet lord, ooohh my lord, my sweet lord, aleluyaaa",
+    "tengo chismesito jejeje",
+    "Te amo de aqui hasta el inicio del universo",
+    "chistesito para alegrar el dia: cual es la diferencia entre un argentino y una vaca? que el argentino dice dalee che y la vaca da leche",
     "Que le dice una barra de pan a otra? te presento a una miga",
-    "Amor tu sabes porque los gatos no van a las discotecas? porque le tienen miedo al perreo"
+    "Esto que hay en mi interiorr es mágicooo, te amo por hacer que me guste Soy Luna",
+    "amor, si estas enojada o frustrada, busca enfocar eso en cosas buenas, yo se que tu puedes"
   
   ];
 
