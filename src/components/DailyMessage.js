@@ -8,7 +8,7 @@ const DailyMessage = () => {
     "Estoy orgulloso de ti amorr",
     "Hoy sacaremos prime a pesar de todas las dificultades",
     "mi amorr te extrañooooo, cuando nos vemos??",
-    "Que dices si te debo algo no material y tu me deebes galletas?,
+    "Que dices si te debo algo no material y tu me debes galletas?",
     "Eres muy fuerte y si podras encontrar solucion a lo que te propongas",
     "My sweet lord, ooohh my lord, my sweet lord, aleluyaaa",
     "tengo chismesito jejeje",
