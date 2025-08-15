@@ -2,21 +2,21 @@ import React, { useState } from 'react';
 
 const DailyMessage = () => {
   const messages = [
-    "amorr nuevamente te quiero dedicar una canción",
-    "A pesar que seas una pava, te amo",
-    "Siempre recuerda lo mucho que vales, lo inteligente que eres y lo feliz que haces al resto",
-    "Estoy orgulloso de ti amorr",
-    "Hoy sacaremos prime a pesar de todas las dificultades",
-    "mi amorr te extrañooooo, cuando nos vemos??",
-    "Que dices si te debo algo no material y tu me debes galletas?",
-    "Eres muy fuerte y si podras encontrar solucion a lo que te propongas",
-    "My sweet lord, ooohh my lord, my sweet lord, aleluyaaa",
-    "tengo chismesito jejeje",
-    "Te amo de aqui hasta el inicio del universo",
-    "chistesito para alegrar el dia: cual es la diferencia entre un argentino y una vaca? que el argentino dice dalee che y la vaca da leche",
-    "Que le dice una barra de pan a otra? te presento a una miga",
-    "Esto que hay en mi interiorr es mágicooo, te amo por hacer que me guste Soy Luna",
-    "amor, si estas enojada o frustrada, busca enfocar eso en cosas buenas, yo se que tu puedes"
+    "Te extraño mi amor, cuando nos vemos? (salida pendiente por este mensaje) ",
+    "Cupon valido para que pidas lo que quieras sin que yo me refute, no incluye cosas materiales.",
+    "Cupon valido para un favor que no crees que haria",
+    "Cupon valido para 1 beso, te recomiendo cuando quizas sea necesario",
+    "Te amo hoy y siempre",
+    "A veces me gustarían hacer cosas que normalmente no hacemos, tipo seria bonito (conversación en wssp)",
+    "A veces siento que hay muchas cosas que no nos decimos en su momento o cuando algo nos incomoda",
+    "Gracias por darme tanta vida y amor, te amo",
+    "amo que me pongas nervioso a veces",
+    "si lees esto mandanme una ss a wssp y te tengo algo preparado",
+    "Cupon valido para un dia en el que yo te atienda por completo (vengas a mi casa)",
+    "un chiste si m mandas esto a wssp",
+    "otro chiste si m mandas esto por wssp",
+    "Siento que a veces tenemos que probar cosas nuevas, tipo nuevos juegos, nuevas cositas, para que algunas cosas de nuestra rela no sean taan rutinarias, igual amo todo contigo",
+    "te amo mi amor, muchisimo, gracias por ser parte de mi vida y espero siempre te sientas amada por mi, porque asi es"
   
   ];
 
