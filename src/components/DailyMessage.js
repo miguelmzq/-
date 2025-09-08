@@ -2,21 +2,21 @@ import React, { useState } from 'react';
 
 const DailyMessage = () => {
   const messages = [
-    "Te extraño mi amor, cuando nos vemos? (salida pendiente por este mensaje) ",
-    "Cupon valido para que pidas lo que quieras sin que yo me refute, no incluye cosas materiales.",
-    "Cupon valido para un favor que no crees que haria",
-    "Cupon valido para 1 beso, te recomiendo cuando quizas sea necesario",
-    "Te amo hoy y siempre",
-    "A veces me gustarían hacer cosas que normalmente no hacemos, tipo seria bonito (conversación en wssp)",
-    "A veces siento que hay muchas cosas que no nos decimos en su momento o cuando algo nos incomoda",
-    "Gracias por darme tanta vida y amor, te amo",
-    "amo que me pongas nervioso a veces",
-    "si lees esto mandanme una ss a wssp y te tengo algo preparado",
-    "Cupon valido para un dia en el que yo te atienda por completo (vengas a mi casa)",
-    "un chiste si m mandas esto a wssp",
-    "otro chiste si m mandas esto por wssp",
-    "Siento que a veces tenemos que probar cosas nuevas, tipo nuevos juegos, nuevas cositas, para que algunas cosas de nuestra rela no sean taan rutinarias, igual amo todo contigo",
-    "te amo mi amor, muchisimo, gracias por ser parte de mi vida y espero siempre te sientas amada por mi, porque asi es"
+    "Cuando te sientas sola, no dudes en llamarme, dimelo y estaremos solos los 2 amor",
+    "Gracias por a veces ser más que mi enamorada, quien siempre me escucha y esta ahi",
+    "un clashhh solo por ver esto",
+    "Y cuando no haya una amiga para un tiktok, maquillarse o cualquier cosa, me tienes a mi para hacerlo (cupon valido para 2 veces al siglo",
+    "Te quiero hoy y siempre, pero más que quererte, es amor por ti",
+    "De verdad debemos tomarnos fotos, tengo muchas ganas de tener 80000 fotos contigo",
+    "Amor recuerda respirar, tomar tu aguita y tomarte tus espacios",
+    "Eres mi brainrot favorito, amorsini estresini favoritini",
+    "cupon valido para que te cocine",
+    "flores flores flores, ella sabia que el sabia",
+    "Cupon valido para un dia en el que yo te atienda por completo (vengas a mi casa) SIGUE PENDIENTEEE",
+    "Por favor, inserte su mensaje",
+    "Code Error [498] please try later",
+    "Este ciclo el que saca mejor nota en promedio de los Generales, le debe una buena hamburguesa al otro",
+    "siempre te voy a elegir a ti, eres mi numero 1 en cualquier lista"
   
   ];
 
