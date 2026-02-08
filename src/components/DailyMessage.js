@@ -2,22 +2,16 @@ import React, { useState } from 'react';
 
 const DailyMessage = () => {
   const messages = [
-    "Cuando te sientas sola, no dudes en llamarme, dimelo y estaremos solos los 2 amor",
-    "Gracias por a veces ser más que mi enamorada, quien siempre me escucha y esta ahi",
-    "un clashhh solo por ver esto",
-    "Y cuando no haya una amiga para un tiktok, maquillarse o cualquier cosa, me tienes a mi para hacerlo (cupon valido para 2 veces al siglo",
-    "Te quiero hoy y siempre, pero más que quererte, es amor por ti",
-    "De verdad debemos tomarnos fotos, tengo muchas ganas de tener 80000 fotos contigo",
-    "Amor recuerda respirar, tomar tu aguita y tomarte tus espacios",
-    "Eres mi brainrot favorito, amorsini estresini favoritini",
-    "cupon valido para que te cocine",
-    "flores flores flores, ella sabia que el sabia",
-    "Cupon valido para un dia en el que yo te atienda por completo (vengas a mi casa) SIGUE PENDIENTEEE",
-    "Por favor, inserte su mensaje",
-    "Code Error [498] please try later",
-    "Este ciclo el que saca mejor nota en promedio de los Generales, le debe una buena hamburguesa al otro",
-    "siempre te voy a elegir a ti, eres mi numero 1 en cualquier lista"
-  
+    "Mi amorcito lindo precioso espero tengas un lindo dia, recuerda respirar y lo privilegiada que eres",
+    "Amor, no dejes que algo te defina, asi sea una nota, el peso o algun error, vales tanto y te amo tanto, espero notes tu valor mi amorcito",
+    "Hoy sera un buen dia, un gran dia, un buen dia, recuerda todo es mental e iniciar el dia con algun problema no define que es un mal dia",
+    "Un chisteson pa ti majoncho, que te diria un perro a ti, si t viera con mis ojos, Guauuuu eres super linda",
+    "Perdoname por mis errores, se que con ellos te puedo lastimar, me gustaria que siempre m dijeses las cosas especificamente que quieres que yo cambie, para tener una idea clara",
+    "Si te digo princesita, no pienso en que dependes de un principe, sino pienso en que eres como una princesa fuerte, valerosa, muy hermosa e inteligente, eso me hace amarte más cada dia",
+    "Si andas muy estresada, busca ordenarte, distraerte y enfocarte, siempre estoy yo para ti, tu puedes amor.",
+    "Te gustaría que de vez en cuando fuera más romantico? o quizas más serio? Quiero que sientas que siempre no solo te amo, sino me interesas y me gustas, tanto en personalidad como en fisico",
+    "Hoy y siempre somos un equipo mi amorcito, y si lees esto, me debes 1 hamburguesa, 1 helado y galleta, besos y abrazos, por ser tu compañero :)",
+    "Puedes ser la persona más fuerte del mundo, pero no estas sola, me tienes a mi, a tu familia y a tus mejores amigas"
   ];
 
   const [currentMessage, setCurrentMessage] = useState('');
@@ -36,7 +30,7 @@ const DailyMessage = () => {
     }
     setShowMessage(!showMessage);
   };
-
+ 
   return (
     <div className="bg-white rounded-xl shadow-xl p-8 max-w-md w-full relative z-10">
       <h1 className="text-3xl font-bold text-pink-600 mb-6 text-center">💓</h1>
