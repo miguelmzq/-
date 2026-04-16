@@ -2,15 +2,15 @@ import React, { useState } from 'react';
 
 const DailyMessage = () => {
   const messages = [
-    "Mi amorcito lindo precioso espero tengas un lindo dia, recuerda respirar y lo privilegiada que eres",
-    "Amor, no dejes que algo te defina, asi sea una nota, el peso o algun error, vales tanto y te amo tanto, espero notes tu valor mi amorcito",
-    "Hoy sera un buen dia, un gran dia, un buen dia, recuerda todo es mental e iniciar el dia con algun problema no define que es un mal dia",
-    "Un chisteson pa ti majoncho, que te diria un perro a ti, si t viera con mis ojos, Guauuuu eres super linda",
-    "Perdoname por mis errores, se que con ellos te puedo lastimar, me gustaria que siempre m dijeses las cosas especificamente que quieres que yo cambie, para tener una idea clara",
-    "Si te digo princesita, no pienso en que dependes de un principe, sino pienso en que eres como una princesa fuerte, valerosa, muy hermosa e inteligente, eso me hace amarte más cada dia",
-    "Si andas muy estresada, busca ordenarte, distraerte y enfocarte, siempre estoy yo para ti, tu puedes amor.",
+    "Mi princesita linda, yo se que quizas no son los mejores dias, esto solo puede hacerte mas fuerte y una persona con mas empatia en el corazon, no estas sola, Te amo mucho",
+    "Recuerda niña linda, no eres defina por alguna nota, actitud, o comentario, tu te defines por quien eres y que haces al respecto para mejorar",
+    "Y cuando menos te lo esperes, algun dia te daras cuenta que a veces son solo malos momentos y que todo paso por algo, Diosito tiene un plan para ti",
+    "Cuando no puedas con tantas cosas, no dudes en llamarme, este donde este, te contestare (si estoy ocupado quizas demore max 10 min en devolver la llamada)",
+    "Perdoname por mis errores, perdon por no siempre entenderte, sabes que siempre lo intento, perdon por a veces necesitar un respiro cuando discutimos, a veces me da miedo decirte algo hiriente y hacerte daño",
+    "Si te digo princesita, no pienso en que dependes de un principe, sino pienso en que eres como una princesa fuerte, valiente, muy hermosa e inteligente, eso me hace amarte más cada dia",
+    "El orden hace la limpieza mental, empieza por lo mas dificil, para al final del dia, tener cosas sencillas que resolver",
     "Te gustaría que de vez en cuando fuera más romantico? o quizas más serio? Quiero que sientas que siempre no solo te amo, sino me interesas y me gustas, tanto en personalidad como en fisico",
-    "Hoy y siempre somos un equipo mi amorcito, y si lees esto, me debes 1 hamburguesa, 1 helado y galleta, besos y abrazos, por ser tu compañero :)",
+    "Hoy y siempre somos un equipo mi amorcito, y si lees esto, me debes 1 hamburguesa, 1 helado y galletas, besos y abrazos, por ser tu compañero :)",
     "Puedes ser la persona más fuerte del mundo, pero no estas sola, me tienes a mi, a tu familia y a tus mejores amigas"
   ];
 
